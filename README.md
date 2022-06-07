@@ -27,7 +27,10 @@
 </a>
 <a href="https://twitter.com/amisha_pandeyy" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" />
 </a>
-</div> 
+</div> <br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amisha0606" alt="AmishaPandey" /></p>
+
 
 <!--
 **Amisha0606/Amisha0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
