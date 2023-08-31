@@ -1,10 +1,10 @@
 <h1> Hola! This is Amisha. <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> --> </h1>
 
- 🌱 I’m currently learning Frontend Web Development.
+ 🌱 I’m a Frontend Web Developer.
  
  👯 I’m looking to collaborate on Open Source Projects.
  
- 🤔 I’m looking for help with Git and Frontend.
+ 🤔 I’m currently working on my Problem-solving Skills.
  
  💬 Ask me about Freelancing and speaking.
  
