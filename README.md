@@ -37,13 +37,13 @@
 <hr>
 <h3 align="center">Let's Connect 🙌</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/amishapandey" target="_blank">
+<a href="https://www.linkedin.com/in/amishha0606" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:pamisha0606@gmail.com">
 <img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://twitter.com/amisha_pandeyy" target="_blank">
+<a href="https://twitter.com/amishha0606" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" />
 </a>
 <a href="https://medium.com/@amishha0606" target="_blank">
