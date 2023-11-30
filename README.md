@@ -4,15 +4,15 @@
  
  👯 I’m looking to collaborate on Open Source Projects.
  
- 🤔 I’m currently working on my Problem-solving Skills.
+ 🤔 I’m currently working on my problem-solving Skills.
  
  💬 Ask me about Freelancing and Public Speaking.
 
- 👥 I am an active participant of several tech communities. 
+ 👥 I am an active participant in several tech communities. 
  
  😄 Pronouns: she/her
  
- 🍩 I love brownies, books  and interacting with new people!
+ 🍩 I love brownies, books, exploring music and interacting with new people!
  
 <br>
 <h3 align="center">🛠 My Tech Stack</h3>
