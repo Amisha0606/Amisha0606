@@ -7,7 +7,7 @@
  🤔 I’m currently working on my problem-solving Skills.
  
  💬 Ask me about Freelancing and Public Speaking.
-
+   
  👥 I am an active participant in several tech communities. 
  
  😄 Pronouns: she/her
