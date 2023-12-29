@@ -8,7 +8,7 @@
  
  💬 Ask me about Software Development, Freelancing and Public Speaking.
    
- 👥 I am an active participant in several tech communities. 
+ 👥 I am active in several tech communities. 
  
  😄 Pronouns: she/her
  
